@@ -1,6 +1,6 @@
 {
   "active": true,
-  "password_required": false,
+  "password_required": true,
   "users": {
     "uid_526722": {
       "name": "1-DilDarAfridiAndroid50$",
