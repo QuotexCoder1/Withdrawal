@@ -85,10 +85,6 @@
     "uid_784161": {
       "name": "Aman",
       "password": "amanwithdrawal"
-    },
-    "uid_098765": {
-      "name": "Mytest",
-      "password": "mytest"
     }
   },
   "blocked": [
@@ -100,7 +96,6 @@
     "uid_120013",
     "uid_120014",
     "uid_120015",
-    "uid_588777",
-    "uid_098765"
+    "uid_588777"
   ]
 }
